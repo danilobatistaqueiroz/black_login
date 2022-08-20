@@ -1,5 +1,6 @@
 body {
-  background-image:url('./blue.png');
+  background-image:url('blue.png');
+  background-color:#28292e;
 }
 
 .row {
@@ -11,7 +12,7 @@ body {
   background-color:#36393f;
   top:110px;
   width:460px;
-  height:398px;
+  height:460px;
   margin:auto;
   position:relative;
   border-radius:6px;
